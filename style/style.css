@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+
+canvas {
+    border: 5px solid rgb(107, 111, 134);
+    border-radius: 10px;
+    background-color: #42cef5;
+    justify-content: center;
+    align-items: center;
+    margin-left: 0%;
+    margin: 0 auto;
+    margin-bottom: -13px;
+    background-image: url("../assets/castrin.jpg");
+    background-size: 100%;
+    background-position: center;
+    
+}
+header{
+    margin-top: 0.4%;
+}
+body{
+    margin: 0 auto;
+    background-color: rgb(255, 251, 251);
+    text-align: center;
+    overflow: hidden;
+}
+body p{
+    background-color: #000000;
+	color: #ffffff;
+	padding: 6px;
+
+    font-family: "Jersey 10", sans-serif;
+    font-size: 35px;
+}
+body .gradedojogo
+{
+    background-image: url("../assets/neymar.webp");
+    background-size: 37%;
+    
+
+}
+footer{
+    background-color: #000000;
+	color: #ffffff;
+	padding: 8px;
+	text-align: center;
+	margin-top: 35px;
+    font-family: "Montserrat", sans-serif;
+
+}
+footer span{
+    font-size: 1.2em;
+    font-weight: 250 ;
+}
