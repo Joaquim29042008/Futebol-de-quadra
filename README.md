@@ -20,7 +20,7 @@ Link do projeto:
 https://futebol-de-quadra.vercel.app/
 
 
-<img src="assets/campo.jpg">
+<img src="assets/castrins.jpg">
 
 
 LINK DAS REGRAS DO MARKDOWN
