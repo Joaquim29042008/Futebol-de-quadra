@@ -16,7 +16,9 @@ quando tiver ganhado aperte o botão resetar
 Deploy - link do projeto
 
 Link do projeto: 
-futebol-de-quadra.vercel.app
+
+https://futebol-de-quadra.vercel.app/
+
 
 <img src="assets/campo.jpg">
 
