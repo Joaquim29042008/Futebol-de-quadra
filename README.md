@@ -15,7 +15,8 @@ quando tiver ganhado aperte o botão resetar
 
 Deploy - link do projeto
 
-Link do projeto: O projeto se encontra hospedado nesse [link](futebol-de-quadra.vercel.app) através do Vercel.app.
+Link do projeto: 
+futebol-de-quadra.vercel.app
 
 <img src="assets/campo.jpg">
 
